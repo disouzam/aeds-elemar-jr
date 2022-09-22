@@ -12,6 +12,8 @@
 
 - Bloom filter
 - https://blog.elemarjr.com/bloom-filter/
+- https://eximia.co/como-bloom-filter-pode-ser-utilizada-para-melhorar-a-performance/
+- https://www.zup.com.br/blog/bloom-filter 
 
 
 - As implementaçoes sao boas o suficiente para a maioria dos casos
@@ -27,3 +29,10 @@
 - Complexidade temporal e espacial
 
 - Análise de complexidade é agnóstica à arquitetura da máquina na qual o algoritmo é executado
+
+- Problemas de decisão:
+  - Solucionável em tempo polinomial
+  - Verificável em tempo polinomial
+
+
+(saí da aula às 20:49 - rever final da aula)
