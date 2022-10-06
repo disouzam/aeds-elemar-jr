@@ -20,3 +20,12 @@
 
 - Arquitetura de computador e organização da informação
 
+- Garbage collector, heap e stack 
+
+- Entendendo a Heap e o Garbage Collector em .NET
+- https://www.youtube.com/watch?v=s5-uC-taIi4
+
+- Entendendo a área de memória conhecida como Stack
+- https://www.youtube.com/watch?v=9NDMIYHi2GE
+
+- Boxing and unboxing
