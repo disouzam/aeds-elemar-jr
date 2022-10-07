@@ -29,3 +29,20 @@
 - https://www.youtube.com/watch?v=9NDMIYHi2GE
 
 - Boxing and unboxing
+
+- Programação funcional torna mais natural o desenvolvimento de programas paralelizados
+
+
+- https://github.com/microsoft/referencesource/blob/5697c29004a34d80acdaf5742d7e699022c64ecd/System.Core/System/Linq/Enumerable.cs#L2590-L2631
+
+- Quick Sort em linguagens com dados imutáveis como Haskell requer múltiplas cópias dos dados
+- Linguagens como Java e C# que lidam com dados mutáveis permitem ordenação in loco
+
+- https://stackoverflow.com/questions/214741/what-is-a-stackoverflowerror
+
+- Ordenação:
+  - Bubble sort
+  - Quick Sort
+  - Merge sort
+  - Introsort
+  - Heap sort
